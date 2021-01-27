@@ -8,5 +8,8 @@ BoatKr is a Minecraft launcher made by Vindows95.
 [Lwjgl3 For Boat](https://github.com/AOF-Dev/lwjgl3-boat)  
 [Openal](https://github.com/kcat/openal-soft)  
 [Aria Downloader](https://github.com/AriaLyy/Aria)  
-[Openjdk8 For Boat](https://github.com/CosineMath/openjdk-jdk8u-aarch32-android)
-
+[Openjdk8 For Boat](https://github.com/CosineMath/openjdk-jdk8u-aarch32-android)  
+[Glfw For Boat](https://github.com/CosineMath/glfw-boat)  
+[Gson](https://github.com/google/gson)  
+[Commons Compress](https://github.com/apache/commons-compress)  
+[XZ For Java](https://git.tukaani.org/?p=xz-java.git;a=summary)  
