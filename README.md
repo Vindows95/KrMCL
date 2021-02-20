@@ -4,7 +4,7 @@ BoatKr is a Minecraft launcher made by Vindows95.
 [This](https://www.boatkr.cn/agreement.html) is the user agreement and policy of BoatKr applicable to the People's Republic of China.
 # Open source library
 [Boat Project](https://github.com/AOF-Dev/BoatApp)  
-[Gl4es API](https://github.com/ptitSeb/gl4es)    
+[GL4ES API](https://github.com/ptitSeb/gl4es)    
 [Lwjgl2 For Boat](https://github.com/AOF-Dev/lwjgl-boat)  
 [Lwjgl3 For Boat](https://github.com/AOF-Dev/lwjgl3-boat)  
 [Openal](https://github.com/kcat/openal-soft)  
