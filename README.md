@@ -13,5 +13,5 @@ BoatKr is a Minecraft launcher made by Vindows95.
 [Glfw For Boat](https://github.com/CosineMath/glfw-boat)  
 [Gson](https://github.com/google/gson)  
 [Commons Compress](https://github.com/apache/commons-compress)  
-[XZ For Java](https://git.tukaani.org/?p=xz-java.git;a=summary)
+[XZ For Java](https://git.tukaani.org/?p=xz-java.git;a=summary)  
 [unZip Part By NaCln4c1](https://github.com/NaCln4c1/Boat_H2O-v4/blob/H2O2/app/src/main/java/com/koishi/launcher/h2o2/tools/FileUtil.java)
