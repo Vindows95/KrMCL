@@ -1,6 +1,8 @@
 # Kr Minecraft Launcher
 KrMCL is a lightweight Minecraft launcher for Android Devices.  
 With KrMCL, you can easily play minecraft on mobile devices.  
+KrMCL is an open source software licensed under GNU General Public License v3.0.  
+Among them, the copyright and trademark ownership of Minecraft (我的世界) belong to Mojang Synergies AB and Mojang Studio.  
 [This](https://krmcl.com/agreement.html) is the user agreement and policy of KrMCL applicable to the People's Republic of China.  
 
 # Open source libraries used by
