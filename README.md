@@ -1,7 +1,7 @@
 # Kr Minecraft Launcher
-KrMCL is a lightweight 
-KrMCL is a Minecraft launcher made by Vindows95.  
-[This](https://krmcl.com/agreement.html) is the user agreement and policy of KrMCL applicable to the People's Republic of China.
+KrMCL is a lightweight Minecraft launcher for Android Devices.  
+[This](https://krmcl.com/agreement.html) is the user agreement and policy of KrMCL applicable to the People's Republic of China.  
+
 # Open source libraries used by
 [Boat Project](https://github.com/AOF-Dev/BoatApp)  
 [Mesa3D Graphics Library](https://github.com/mesa3d/mesa)  
@@ -14,3 +14,4 @@ KrMCL is a Minecraft launcher made by Vindows95.
 [GSON](https://github.com/google/gson)  
 [Commons Compress](https://github.com/apache/commons-compress)  
 [XZ For Java](https://git.tukaani.org/?p=xz-java.git;a=summary)  
+
