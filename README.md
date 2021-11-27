@@ -6,7 +6,7 @@ Among them, the copyright and trademark ownership of Minecraft (我的世界) be
 [This](https://krmcl.com/agreement.html) is the user agreement and policy of KrMCL applicable to the People's Republic of China.  
 
 # Open source libraries used by
-~~[Boat Project](https://github.com/AOF-Dev/BoatApp)~~
+~~[Boat Project](https://github.com/AOF-Dev/BoatApp)~~  
 [Mesa3D Graphics Library](https://github.com/mesa3d/mesa)  
 [GL4ES Graphics Library](https://github.com/ptitSeb/gl4es)    
 [LWJGL2 For Boat](https://github.com/AOF-Dev/lwjgl-boat)  
